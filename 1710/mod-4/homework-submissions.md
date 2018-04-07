@@ -99,9 +99,12 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 * [Express Tutorial](https://github.com/goodalls/express-server) - Added 404, a clinet-side Javascript file, and json file.
 * [Promise Practice Exercises](https://repl.it/@jgoodall/promise-practice)
 * [Palette Picker PWA](https://github.com/goodalls/pwa-palette-picker)
-* [Websockets Tutorial]() - What additional items did you work on?
+* [Websockets Tutorial](https://github.com/goodalls/chat-socket) - What additional items did you work on?
+- Broadcast a message to connected users when someone connects or disconnects
+- Don’t send the same message to the user that sent it himself. Instead, append the message directly as soon as he presses enter.
+ - Add “{user} is typing” functionality
 * [House of Vars Blog Post]()
-* [Pattern Party Repo]()
+* [Pattern Party Repo](https://github.com/goodalls/pattrn-party)
 * [Pattern Party GitHub Pages]()
 
 ### Jorge Ed PerezGa
